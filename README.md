@@ -1,5 +1,5 @@
 👋 Meu nome é Davi Eugênio de Oliveira Borges
-Sempre fui atraído(a) por computadores. Tenho uma meta pessoal em virar um desenvolvedor de software sênior.
+Sempre fui atraído por computadores. Tenho uma meta pessoal em virar um desenvolvedor de software sênior.
 
 👀 Meus conhecimentos:
 Tenho conhecimentos nas tecnologias/linguagens abaixo. Estão em constante aprendizado conforme você notará nos meus repositórios do Github.
