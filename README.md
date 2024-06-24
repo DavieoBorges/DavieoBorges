@@ -3,8 +3,6 @@
 <br>
 <img align="right" width="400" src="101e1107e91db918a8e163622b2c95a0.gif">
 
-🔭 I’m currently working at **Bemobi**
-  
 🌱 I’m currently learning **.NET**
   
 📫 How to reach me: **davi.eoborges@gmail.com**
